@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: resources/electron
+  app: dist/electron
+appId: com.maklesoft.padlock
+publish:
+  provider: github
+  owner: jdavey-enable
+  repo: padlock
+win:
+  publisherName: 'Open Source Developer, Martin Kleinschrodt'
+linux:
+  category: Utility
+protocols:
+  name: Padlock
+  schemes:
+    - padlock
+electronVersion: 1.8.4

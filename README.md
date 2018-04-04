@@ -1,16 +1,13 @@
-# Padlock
-A minimal open source password manager.
+# NOTICE - Clone repository!
 
-**If you just want to use the app, we recommend downloading one of the [official releases](https://github.com/maklesoft/padlock/releases).**
-
-However, if you want to get your hands dirty and contribute or build your own version from source, read on!
+** Official project can be found at https://github.com/maklesoft/padlock/ **
 
 ## Getting Started
 
 1. First, you'll need [Node.js and npm](http://nodejs.org/). Install it if you haven't yet.
 2. Clone or download the source code. E.g.:
     ```sh
-    git clone git@github.com:MaKleSoft/padlock.git
+    git clone https://github.com/jdavey-enable/padlock.git
     ```
 3. Install the local dependencies.
     ```sh

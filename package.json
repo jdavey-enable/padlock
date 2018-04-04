@@ -4,10 +4,10 @@
   "description": "A minimalist password manager",
   "author": "Martin Kleinschrodt <martin@maklesoft.com>",
   "license": "GPL-3.0",
-  "homepage": "https://padlock.io/",
+  "homepage": "https://github.com/jdavey-enable/padlock/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maklesoft/padlock.git"
+    "url": "git+https://github.com/jdavey-enable/padlock.git"
   },
   "main": "main.js",
   "devDependencies": {
@@ -56,7 +56,7 @@
     "yargs": "^4.8.1"
   },
   "scripts": {
-    "bower-install": "pushd app && bower install && popd",
+    "bower-install": "bash -c 'pushd app && bower install && popd'",
     "compile": "gulp compile --silent",
     "lint": "eslint app/**/*.{js,html}",
     "test": "karma start --single-run --browsers ChromeHeadless karma.conf.js",

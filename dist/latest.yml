@@ -1,9 +1,9 @@
-version: 2.5.0
+version: 2.6.3
 files:
-  - url: padlock-setup-2.5.0.exe
-    sha512: q4aH7I1kHfw8COGIcWHBgjrg2uypiPvZVCYMICWzAuJtttH3dZrfwjF5P9P7ZrAvyvzlc9H55pOtBGksfZKO8w==
-    size: 37794634
-path: padlock-setup-2.5.0.exe
-sha512: q4aH7I1kHfw8COGIcWHBgjrg2uypiPvZVCYMICWzAuJtttH3dZrfwjF5P9P7ZrAvyvzlc9H55pOtBGksfZKO8w==
-sha2: 372d36a03c4d7e66e582f091e885c573abd693d33a484f7789bca8057e53b234
-releaseDate: '2018-04-04T08:44:22.023Z'
+  - url: padlock-setup-2.6.3.exe
+    sha512: l1u1NKqp8ZxwTKrgQZ56nnQDrCBpFWMb8WpMMfqhXfd+tMIyl2hA2uy3H24sX914f6eDvO3uUENaumaympHjeA==
+    size: 38027840
+path: padlock-setup-2.6.3.exe
+sha512: l1u1NKqp8ZxwTKrgQZ56nnQDrCBpFWMb8WpMMfqhXfd+tMIyl2hA2uy3H24sX914f6eDvO3uUENaumaympHjeA==
+sha2: 05b7af0efc1dad9a9045dd3fc8471fc7d08b29fa9146211455bea16f942819e8
+releaseDate: '2018-04-04T13:26:04.173Z'

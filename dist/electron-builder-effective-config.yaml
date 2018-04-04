@@ -5,7 +5,7 @@ directories:
 appId: com.maklesoft.padlock
 publish:
   provider: github
-  owner: jdavey-enable
+  owner: maklesoft
   repo: padlock
 win:
   publisherName: 'Open Source Developer, Martin Kleinschrodt'

@@ -1,9 +1,9 @@
-version: 2.5.0
+version: 2.6.3
 files:
-  - url: padlock-2.5.0-x86_64.AppImage
-    sha512: vCkt87ECjCvxBX8Bl/tKrDf6kbQ+8BGoHvXUBdl117ICinXl5qGdwiVYLxdnqYlNEJemjTIVjhE0+sfdfZlWDw==
-    size: 51251041
-    blockMapSize: 53413
-path: padlock-2.5.0-x86_64.AppImage
-sha512: vCkt87ECjCvxBX8Bl/tKrDf6kbQ+8BGoHvXUBdl117ICinXl5qGdwiVYLxdnqYlNEJemjTIVjhE0+sfdfZlWDw==
-releaseDate: '2018-04-04T08:36:28.845Z'
+  - url: padlock-2.6.3-x86_64.AppImage
+    sha512: EJfay/++nkhT2Mk8T3y+dP+J24j0YFoj+9NFLXmw4ogiql385GLzM+LpxotRsWjt0j27s5v7WhFJIRQAcVTDog==
+    size: 51850198
+    blockMapSize: 54554
+path: padlock-2.6.3-x86_64.AppImage
+sha512: EJfay/++nkhT2Mk8T3y+dP+J24j0YFoj+9NFLXmw4ogiql385GLzM+LpxotRsWjt0j27s5v7WhFJIRQAcVTDog==
+releaseDate: '2018-04-04T13:25:32.907Z'
